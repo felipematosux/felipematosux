@@ -1,5 +1,28 @@
 # 💫 About Me:
-💫 About Me:<br>Hi there, I'm Felipe! Frontend Developer | UI/UX Designer<br>I'm a Frontend Developer in progress, currently learning HTML, CSS, Java and JavaScript. With a background in SEO, I have experience in UI/UX Design projects, working with Figma, Photoshop, Illustrator, Premiere Pro, and InDesign.<br>💡 Passionate about design, coding, and digital marketing<br>🎯 Always eager to learn and create amazing projects
+
+Hi there, I'm **Felipe**! 
+**Aspiring Fullstack Developer | Systems for Internet Student**
+
+I am currently transitioning from a background in Design and SEO to Fullstack Software Development. My goal is to build robust, scalable applications while maintaining a sharp eye for user experience.
+
+### 🚀 Current Focus:
+* **Backend:** Deep diving into **Java** (Maratona Java Virado no Jiraya) and Object-Oriented Programming.
+* **Frontend:** Refining skills in HTML5, CSS3, and JavaScript to create responsive interfaces.
+* **Academic:** Pursuing a degree in **Systems for Internet**, focusing on the technical foundations of the web.
+
+### 🛠️ Technical Toolkit:
+* **Coding:** Java, JavaScript, HTML/CSS.
+* **Design:** UI/UX Design (Figma), Photoshop, Illustrator.
+* **Concepts:** Computer Architecture, SEO, and User-Centered Design.
+
+### 🎯 Goals:
+* Master the Java ecosystem to build high-performance backend systems.
+* Combine my design and advertising background with frontend logic to become a complete Fullstack Developer.
+* Continuously learn and apply best practices in software architecture and clean code.
+
+💡 *I believe that great software is the perfect intersection between clean code and intuitive design.*
+
+---
 
 
 ## 🌐 Socials:
